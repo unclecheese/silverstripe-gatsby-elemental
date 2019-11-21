@@ -9,7 +9,6 @@
   "private": false,
   "dependencies": {
     "gatsby": "^2.15.1",
-    "gatsby-silverstripe-builder": "^0",
     "react": "^16"
   }
 }
