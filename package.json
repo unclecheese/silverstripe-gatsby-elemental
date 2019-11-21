@@ -1,6 +1,6 @@
 {
   "name": "silverstripe-gatsby-elemental",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides tools for quering elemental blocks as data and rendering them on dynamically imported React components in Gatsby",
   "main": "index.js",
   "repository": "https://github.com/unclecheese/silverstripe-gatsby-elemental",
